@@ -16,13 +16,11 @@ super simple configuration tool for node.js projects.
 
 _TODO_ add more details but for now see ./configor.json
 
-``` var config = require('configor');
-
-    ...
-
-   var url = configor.myProject.url
-       img = configor.myProject.img
-
+```
+ var config = require('configor');
+  ...
+ var url = configor.myProject.url
+     img = configor.myProject.img
 ```
 
 
@@ -32,4 +30,4 @@ _TODO_ add more details but for now see ./configor.json
 1. package.json
 2. configor.json
 3. env mapping
-4. ```config``` object
+4. ```configor``` object
