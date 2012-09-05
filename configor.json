@@ -1,0 +1,15 @@
+{
+  "myProject" : {
+    "url"  : "example.com"
+  , "img"  : "sample.gif"
+  }
+
+, "env" : {
+    "myProject" : {
+      "url" : "MYPROJECT_URL"
+    , "img" : "MYPROJECT_IMG"
+    }
+  }
+
+
+}
