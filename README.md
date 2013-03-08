@@ -31,3 +31,5 @@ _TODO_ add more details but for now see ./configor.json
 2. configor.json
 3. env mapping
 4. ```configor``` object
+
+
